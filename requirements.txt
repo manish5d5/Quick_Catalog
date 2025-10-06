@@ -1,8 +1,4 @@
-streamlit==1.36.0
-tensorflow==2.20.0
-numpy==1.26.4
-pillow==10.4.0
-protobuf>=5.28.0
-h5py==3.11.0
-opt-einsum==3.3.0
-packaging==24.1
+streamlit>=1.0.0
+tensorflow>=2.5.0
+numpy>=1.20.0
+pillow>=8.0.0
